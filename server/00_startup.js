@@ -8,7 +8,7 @@ if(Meteor.isServer){
                 _.each(menuItems,function(i){
                     Tags.upsert({menu : m, code : i.code},{
                         $set:{
-                            text : i.name,
+                            name : i.name,
                             code : i.code,
                             menu : m
                         }

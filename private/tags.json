@@ -2,6 +2,7 @@
   "isInit" : false,
   "items" : {
     "countries" : [
+      {"code" : "country", "name" : "Chọn quốc gia"},
       {"code" : "uk", "name" : "Vương quốc Anh"},
       {"code" : "us", "name" : "Mỹ"},
       {"code" : "sg", "name" : "Singapore"},
@@ -18,6 +19,7 @@
       {"code" : "cn", "name" : "Trung quốc"}
     ],
     "levels" : [
+      {"code" : "level", "name" : "Chọn bậc học"},
       {"code" : "thpt_ptth", "name" : "THPT / PTTH"},
       {"code" : "dbdh", "name" : "Dự bị Đại Học"},
       {"code" : "dhn1", "name" : "Đại học năm nhất"},
