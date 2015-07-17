@@ -1,0 +1,29 @@
+{
+  "isInit" : false,
+  "items" : {
+    "countries" : [
+      {"code" : "uk", "name" : "Vương quốc Anh"},
+      {"code" : "us", "name" : "Mỹ"},
+      {"code" : "sg", "name" : "Singapore"},
+      {"code" : "au", "name" : "Úc"},
+      {"code" : "ca", "name" : "Canada"},
+      {"code" : "se", "name" : "Thuỵ Sỹ"},
+      {"code" : "nz", "name" : "New Zealand"},
+      {"code" : "it", "name" : "Ý"},
+      {"code" : "nl", "name" : "Hà Lan"},
+      {"code" : "fi", "name" : "Phần Lan"},
+      {"code" : "th", "name" : "Thái Lan"},
+      {"code" : "kr", "name" : "Hàn Quốc"},
+      {"code" : "jp", "name" : "Nhật Bản"},
+      {"code" : "cn", "name" : "Trung quốc"}
+    ],
+    "levels" : [
+      {"code" : "thpt_ptth", "name" : "THPT / PTTH"},
+      {"code" : "dbdh", "name" : "Dự bị Đại Học"},
+      {"code" : "dhn1", "name" : "Đại học năm nhất"},
+      {"code" : "dh", "name" : "Đại học"},
+      {"code" : "dbts", "name" : "Dự bị Thạc Sỹ"},
+      {"code" : "ts", "name" : "Thạc Sỹ"}
+    ]
+  }
+}
